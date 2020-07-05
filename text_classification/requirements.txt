@@ -1,0 +1,4 @@
+jupyter
+nltk - latest version
+sklearn
+
